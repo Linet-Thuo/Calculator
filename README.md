@@ -1,6 +1,6 @@
 # Calculator
 C++
-
+![Calculator 1](https://user-images.githubusercontent.com/60045349/105732466-84c5ca80-5f41-11eb-83ec-1327da53cfd6.png)
 #include <iostream>
 
 using namespace std;
